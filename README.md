@@ -7,8 +7,6 @@
 <p align="center">
   <a href="https://foxes.my">Website</a>
   &nbsp;&bull;&nbsp;
-  <a href="https://www.twitch.tv/yarilafox">Twitch</a>
-  &nbsp;&bull;&nbsp;
   <a href="https://t.me/live_yarila">Telegram</a>
 </p>
 
