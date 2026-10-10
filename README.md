@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://foxes.my">
-    <img src="https://foxes.my/data/github/hero.svg?v=1" width="100%" alt="Animated YarilaFox profile card" />
+    <img src="https://foxes.my/api/github-card?v=3" width="100%" alt="Animated YarilaFox profile card" />
   </a>
 </p>
 
