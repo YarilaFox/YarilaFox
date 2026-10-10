@@ -9,8 +9,6 @@
   &nbsp;&bull;&nbsp;
   <a href="https://www.twitch.tv/yarilafox">Twitch</a>
   &nbsp;&bull;&nbsp;
-  <a href="https://www.youtube.com/@YarilaFox">YouTube</a>
-  &nbsp;&bull;&nbsp;
   <a href="https://t.me/live_yarila">Telegram</a>
 </p>
 
