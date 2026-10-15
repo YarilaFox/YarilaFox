@@ -9,7 +9,7 @@
   &nbsp;&bull;&nbsp;
   <a href="https://t.me/live_yarila">Telegram</a>
   &nbsp;&bull;&nbsp;
-  <a copy="@yarila">Discord</a>
+  <a copy="@yarila">Discord - @yarila</a>
 </p>
 
 ## What I work on
