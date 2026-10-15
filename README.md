@@ -8,6 +8,8 @@
   <a href="https://foxes.my">Website</a>
   &nbsp;&bull;&nbsp;
   <a href="https://t.me/live_yarila">Telegram</a>
+  &nbsp;&bull;&nbsp;
+  <a copy="@yarila">Discord</a>
 </p>
 
 ## What I work on
