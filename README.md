@@ -16,7 +16,7 @@
 
 - **Discord Insider** — editing posts, news, and datamining coverage.
 - **Foxbot** — testing a Discord bot used across more than 6,000 servers.
-- **[PepeMaps Beta](https://maps.foxes.my)** — creator of a Minecraft map project.
+- **[PepeMaps](https://maps.foxes.my)** — creator of a Minecraft map project.
 - Experiments, design work, and small interactive projects for **[foxes.my](https://foxes.my)**.
 
 <p align="center">
