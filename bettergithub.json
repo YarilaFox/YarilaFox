@@ -1,19 +1,19 @@
 {
   "appearance": {
-    "theme": "midnight",
-    "accent": "#eb0000",
+    "theme": "amethyst",
+    "accent": "#ff822e",
     "effect": "glow",
-    "base": "#000000",
-    "surface": "#1d0c0c",
-    "text": "#ff543d",
-    "muted": "#caa5a5",
-    "border": "#5b3434"
+    "base": "#070403",
+    "surface": "#2c1a17",
+    "text": "#f4eaff",
+    "muted": "#cbaaaa",
+    "border": "#5d4437"
   },
   "layout": {
     "sidebar": [
-      "about",
       "packages",
       "releases",
+      "about",
       "contributors",
       "languages"
     ],
