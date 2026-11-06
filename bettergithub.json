@@ -1,13 +1,13 @@
 {
   "appearance": {
-    "theme": "universe-dark",
-    "accent": "#00c943",
+    "theme": "amethyst",
+    "accent": "#c68cff",
     "effect": "none",
-    "base": "#090d0b",
-    "surface": "#111a15",
-    "text": "#f0f7f2",
-    "muted": "#a6baa9",
-    "border": "#2c4032"
+    "base": "#130e1d",
+    "surface": "#20172d",
+    "text": "#f4eaff",
+    "muted": "#bdaacb",
+    "border": "#49375e"
   },
   "layout": {
     "sidebar": [
