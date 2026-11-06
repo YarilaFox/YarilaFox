@@ -1,0 +1,21 @@
+{
+  "appearance": {
+    "theme": "universe-dark",
+    "accent": "#00c943",
+    "effect": "none",
+    "base": "#090d0b",
+    "surface": "#111a15",
+    "text": "#f0f7f2",
+    "muted": "#a6baa9",
+    "border": "#2c4032"
+  },
+  "layout": {
+    "sidebar": [
+      "packages",
+      "releases",
+      "about",
+      "contributors",
+      "languages"
+    ]
+  }
+}
