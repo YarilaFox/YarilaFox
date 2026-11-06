@@ -1,13 +1,13 @@
 {
   "appearance": {
     "theme": "amethyst",
-    "accent": "#c68cff",
-    "effect": "none",
-    "base": "#130e1d",
-    "surface": "#20172d",
+    "accent": "#ff822e",
+    "effect": "glow",
+    "base": "#070403",
+    "surface": "#2c1a17",
     "text": "#f4eaff",
-    "muted": "#bdaacb",
-    "border": "#49375e"
+    "muted": "#cbaaaa",
+    "border": "#5d4437"
   },
   "layout": {
     "sidebar": [
@@ -16,6 +16,16 @@
       "about",
       "contributors",
       "languages"
+    ],
+    "profile": [
+      "readme",
+      "pinned",
+      "contributions"
+    ],
+    "profileSidebar": [
+      "info",
+      "achievements",
+      "highlights"
     ]
   }
 }
