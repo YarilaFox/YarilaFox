@@ -1,25 +1,24 @@
-  "profile": {
-    "appearance": {
-      "theme": "amethyst",
-      "accent": "#ffb78a",
-      "effect": "none",
-      "base": "#000000",
-      "surface": "#2c1917",
-      "text": "#f1ebff",
-      "muted": "#bdaacb",
-      "border": "#5d3937"
-    },
-    "layout": {
-      "profile": [
-        "readme",
-        "pinned",
-        "contributions"
-      ],
-      "profileSidebar": [
-        "info",
-        "achievements",
-        "highlights"
-      ]
-    }
+{
+  "appearance": {
+    "theme": "universe-dark",
+    "accent": "#ff830f",
+    "effect": "glow",
+    "base": "#090d0b",
+    "surface": "#111a15",
+    "text": "#f0f7f2",
+    "muted": "#a6baa9",
+    "border": "#2c4032"
+  },
+  "layout": {
+    "profile": [
+      "pinned",
+      "readme",
+      "contributions"
+    ],
+    "profileSidebar": [
+      "info",
+      "highlights",
+      "achievements"
+    ]
   }
 }
