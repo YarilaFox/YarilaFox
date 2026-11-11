@@ -1,37 +1,15 @@
 {
-  "appearance": {
-    "theme": "universe-dark",
-    "accent": "#ff7e05",
-    "effect": "none",
-    "base": "#090d0b",
-    "surface": "#191310",
-    "text": "#f0f7f2",
-    "muted": "#a6baa9",
-    "border": "#402c2b"
-  },
-  "layout": {
-    "profile": [
-      "readme",
-      "pinned",
-      "contributions"
-    ],
-    "profileSidebar": [
-      "info",
-      "achievements",
-      "highlights"
-    ]
-  },
   "profile": {
     "appearance": {
       "theme": "universe-dark",
-      "accent": "#ff7e05",
+      "accent": "#254974",
       "background": "YarilaFox/image.png",
-      "effect": "none",
+      "effect": "glow",
       "base": "#090d0b",
-      "surface": "#191310",
+      "surface": "#091839",
       "text": "#f0f7f2",
-      "muted": "#a6baa9",
-      "border": "#402c2b"
+      "muted": "#a6a9ba",
+      "border": "#2b3240"
     },
     "layout": {
       "profile": [
@@ -44,7 +22,6 @@
         "highlights",
         "info"
       ]
-    },
-    "banner": "YarilaFox/image.png"
+    }
   }
 }
