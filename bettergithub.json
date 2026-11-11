@@ -20,5 +20,31 @@
       "achievements",
       "highlights"
     ]
+  },
+  "profile": {
+    "appearance": {
+      "theme": "universe-dark",
+      "accent": "#ff7e05",
+      "background": "YarilaFox/image.png",
+      "effect": "none",
+      "base": "#090d0b",
+      "surface": "#191310",
+      "text": "#f0f7f2",
+      "muted": "#a6baa9",
+      "border": "#402c2b"
+    },
+    "layout": {
+      "profile": [
+        "pinned",
+        "readme",
+        "contributions"
+      ],
+      "profileSidebar": [
+        "achievements",
+        "highlights",
+        "info"
+      ]
+    },
+    "banner": "YarilaFox/image.png"
   }
 }
